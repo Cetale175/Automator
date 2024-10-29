@@ -6,6 +6,3 @@ build
 *.iml
 
 # Project exclude paths
-/.github/
-/app/
-/gradle/
